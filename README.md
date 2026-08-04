@@ -990,3 +990,147 @@ Together, they provide a stable foundation for the continuous evolution of the E
 ---
 
 > **Strong enterprises are built layer by layer—not application by application.**
+
+<!-- ====================================================================== -->
+<!-- Part 7 — Repository Structure                                          -->
+<!-- ====================================================================== -->
+
+# Repository Structure
+
+The DevinaOS repository is more than a source code repository.
+
+It is the canonical home of the Enterprise Operating System.
+
+Every document, architectural decision, standard, and governance artifact is organized to preserve traceability, maintain consistency, and support continuous evolution.
+
+The repository itself is designed as part of the architecture.
+
+---
+
+## Repository Philosophy
+
+The repository follows several guiding principles.
+
+- Every document has a single authoritative location.
+- Every architectural artifact belongs to a defined Architecture Family.
+- Every change is version controlled.
+- Every decision is traceable.
+- Every approved document becomes part of the Enterprise Memory.
+
+The repository is therefore both a documentation platform and an architectural knowledge system.
+
+---
+
+## High-Level Repository Structure
+
+```text
+DevinaOS
+│
+├── .github/
+│   └── Organization profile and community health
+│
+├── docs/
+│   ├── foundation/
+│   ├── architecture/
+│   ├── governance/
+│   ├── business/
+│   ├── information/
+│   ├── reference/
+│   └── templates/
+│
+├── assets/
+│
+├── diagrams/
+│
+├── examples/
+│
+├── tools/
+│
+└── README.md
+```
+
+The structure may evolve as the Enterprise Operating System grows, while preserving backward compatibility and architectural consistency.
+
+---
+
+## Documentation Organization
+
+Documentation is organized according to the DevinaOS Architecture Families rather than by technology or department.
+
+```text
+docs/
+│
+├── foundation/
+│
+├── architecture/
+│
+├── governance/
+│
+├── business/
+│
+├── information/
+│
+└── reference/
+```
+
+This organization enables contributors to navigate the enterprise architecture through logical architectural domains instead of disconnected document collections.
+
+---
+
+## Repository as Enterprise Memory
+
+The repository serves as the canonical Enterprise Memory of DevinaOS.
+
+Every approved architectural artifact contributes to a continuously growing body of enterprise knowledge.
+
+Examples include:
+
+- Enterprise Architecture
+- Architecture Decision Records
+- Standards
+- Policies
+- Guidelines
+- Registries
+- Capability Catalogues
+- Domain Models
+- Blueprint Documents
+
+Together, these artifacts create a governed and traceable knowledge system that evolves alongside the enterprise.
+
+---
+
+## Relationship with GitHub
+
+GitHub provides the governance infrastructure for DevinaOS.
+
+The repository uses GitHub to support:
+
+- Version Control
+- Pull Requests
+- Code Reviews
+- Discussions
+- Issues
+- Projects
+- Releases
+- Enterprise Memory
+
+Together, these capabilities enable transparent collaboration and governed architectural evolution.
+
+---
+
+## Repository Principles
+
+Every repository within DevinaOS should follow the same principles.
+
+- Canonical Source of Truth
+- Documentation as Architecture
+- Governance by Design
+- Version Everything
+- Preserve Enterprise Memory
+- Continuous Improvement
+
+These principles ensure that every repository contributes consistently to the Enterprise Operating System.
+
+---
+
+> **The repository is not where architecture is stored. It is where architecture lives.**
