@@ -406,3 +406,95 @@ Strategic objectives provide continuity across the entire Enterprise Operating S
 > **Architecture defines structure.**
 
 > **Execution delivers outcomes.**
+
+# Part 5 — Evolution Principles
+
+The evolution of DevinaOS is guided by a set of enduring principles that ensure consistency, sustainability, and long-term architectural integrity.
+
+These principles remain stable regardless of technological trends, implementation approaches, or organizational growth.
+
+Every architectural decision, governance initiative, repository, and engineering practice should align with these principles.
+
+---
+
+## EP-01 — Architecture First
+
+Architecture provides the foundation for every capability within DevinaOS.
+
+Implementation should follow architecture—not define it.
+
+Every significant initiative begins with architectural thinking before technical execution.
+
+---
+
+## EP-02 — Governance by Design
+
+Governance is not an afterthought.
+
+Policies, standards, responsibilities, traceability, and decision-making processes should be embedded into the Enterprise Operating System from the beginning.
+
+---
+
+## EP-03 — Documentation as Architecture
+
+Documentation is not merely descriptive.
+
+Within DevinaOS, documentation represents enterprise knowledge and serves as an architectural asset.
+
+Well-governed documentation enables continuity, collaboration, and organizational learning.
+
+---
+
+## EP-04 — Canonical Source of Truth
+
+Every approved enterprise artifact should have one authoritative location.
+
+Collaboration may occur across multiple platforms, but the canonical version must remain clearly defined and governed.
+
+---
+
+## EP-05 — Incremental Evolution
+
+DevinaOS evolves through continuous, manageable improvements rather than disruptive transformation.
+
+Each iteration should strengthen the existing foundation while preserving enterprise stability.
+
+---
+
+## EP-06 — Enterprise Traceability
+
+Knowledge should remain connected.
+
+Architectural decisions, governance artifacts, capabilities, repositories, and documentation should maintain clear relationships that enable understanding and long-term maintenance.
+
+---
+
+## EP-07 — AI-Native Collaboration
+
+Artificial Intelligence should become a collaborative partner in preserving enterprise knowledge, supporting governance, and improving organizational decision-making.
+
+AI complements human expertise while respecting architectural principles and governance.
+
+---
+
+## EP-08 — Preserve Enterprise Memory
+
+Enterprise knowledge should outlive individual contributors.
+
+DevinaOS exists to preserve organizational memory so that knowledge, decisions, and context remain available across generations of continuous enterprise evolution.
+
+---
+
+## Applying the Principles
+
+These Evolution Principles are intended to guide every future initiative within DevinaOS.
+
+Whenever new repositories, architecture documents, governance frameworks, engineering standards, or AI capabilities are introduced, they should be evaluated against these principles to ensure alignment with the long-term vision of the Enterprise Operating System.
+
+---
+
+> **Principles create consistency.**
+
+> **Consistency enables evolution.**
+
+> **Evolution preserves the enterprise.**
