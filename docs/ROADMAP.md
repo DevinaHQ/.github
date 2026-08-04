@@ -1447,3 +1447,77 @@ All future additions should remain aligned with the principles of:
 > **Every relationship strengthens understanding.**
 
 > **Together they preserve the Enterprise Operating System.**
+
+# Part 15 — Release Information & Revision History
+
+## Release Information
+
+| Property | Value |
+|----------|-------|
+| **Document ID** | ROADMAP-000 |
+| **Document Title** | DevinaOS Roadmap |
+| **Version** | 1.0.0 |
+| **Status** | Approved |
+| **Authority** | Master |
+| **Release** | M1 |
+| **Baseline** | M1 |
+| **Classification** | Public |
+| **Owner** | DevinaHQ |
+| **Review Cycle** | Living Document |
+| **Canonical Repository** | DevinaHQ/.github |
+
+---
+
+## Governance
+
+ROADMAP-000 is maintained as a Living Master Document.
+
+Minor revisions may improve clarity, accuracy, and consistency while preserving the approved scope of the roadmap.
+
+Significant changes affecting strategic direction, architectural evolution, or governance should follow the approved enterprise governance process and, where appropriate, be supported by an Architecture Decision Record (ADR).
+
+The roadmap should evolve incrementally while maintaining continuity with previous releases.
+
+---
+
+## Revision History
+
+| Version | Release | Date | Description |
+|----------|----------|------|-------------|
+| 1.0.0 | M1 | 2026-08 | Initial release of ROADMAP-000. |
+
+---
+
+## Future Evolution
+
+The completion of Version 1.0 does not represent the completion of DevinaOS.
+
+Instead, it establishes the first official strategic baseline for the long-term evolution of the Enterprise Operating System.
+
+Future releases will continue to refine the roadmap while preserving the vision, architectural direction, governance principles, and enterprise identity established by this document.
+
+---
+
+## Closing Statement
+
+DevinaOS is built upon the belief that organizations should not merely accumulate information.
+
+They should preserve knowledge.
+
+They should govern change.
+
+They should continuously evolve.
+
+The DevinaOS Roadmap serves as the strategic compass that guides this evolution, ensuring that every architectural decision, governance initiative, engineering practice, and enterprise capability contributes toward a unified Enterprise Operating System.
+
+The journey continues.
+
+---
+
+> **Architecture provides direction.**
+
+> **Governance preserves continuity.**
+
+> **Knowledge enables intelligence.**
+
+> **DevinaOS continues to evolve.**
