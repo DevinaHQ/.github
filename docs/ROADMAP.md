@@ -136,7 +136,14 @@ This roadmap is not intended to predict every future implementation.
 Instead, it establishes a stable architectural direction that allows DevinaOS to evolve consistently without losing its vision, governance, or enterprise identity.
 
 Every evolution stage described in this document represents another step toward realizing the long-term vision of DevinaOS as an Enterprise Operating System.
+---
+Roadmap Principles
 
+- Long-term Thinking
+- Architecture First
+- Governance by Design
+- Incremental Evolution
+- Living Document
 ---
 
 > **Architecture provides direction.**
@@ -597,6 +604,22 @@ The evolution of DevinaOS is organized into progressive stages that collectively
 Each stage builds upon the achievements of the previous stage while preserving architectural integrity, governance, and enterprise knowledge.
 
 The roadmap emphasizes continuous evolution rather than isolated feature development.
+
+Identity
+        │
+Foundation
+        │
+Engineering
+        │
+Architecture
+        │
+Governance
+        │
+Platform
+        │
+Enterprise Intelligence
+        │
+AI Operating System
 
 ---
 
@@ -1366,9 +1389,9 @@ These documents collectively define why DevinaOS exists and where it is intended
 
 The following document series governs the DevinaOS Documentation Repository:
 
-- DOC Series
+- DOC Root Documents
 
-The DOC Series defines documentation standards, metadata, structure, naming, relationships, lifecycle, versioning, review, approval, and governance.
+The DOC Root Documents defines documentation standards, metadata, structure, naming, relationships, lifecycle, versioning, review, approval, and governance.
 
 ---
 
@@ -1477,7 +1500,16 @@ Minor revisions may improve clarity, accuracy, and consistency while preserving 
 Significant changes affecting strategic direction, architectural evolution, or governance should follow the approved enterprise governance process and, where appropriate, be supported by an Architecture Decision Record (ADR).
 
 The roadmap should evolve incrementally while maintaining continuity with previous releases.
+---
+## Document Maturity
 
+| Area | Status |
+|-------|--------|
+| Strategic Direction | Established |
+| Architecture Alignment | Established |
+| Governance Alignment | Established |
+| Engineering Alignment | Established |
+| Future Evolution | Continuous |
 ---
 
 ## Revision History
