@@ -1372,3 +1372,176 @@ Each layer provides the context needed to understand the next.
 ---
 
 > **Understanding the architecture is not about reading every document. It is about following the relationships between them.**
+
+<!-- ====================================================================== -->
+<!-- Part 9 — Governance & Lifecycle                                        -->
+<!-- ====================================================================== -->
+
+# Governance & Lifecycle
+
+DevinaOS is governed through a structured lifecycle that ensures architectural consistency, traceability, and continuous evolution.
+
+Governance is not intended to slow innovation.
+
+Its purpose is to preserve enterprise knowledge while enabling controlled and transparent change.
+
+Every architectural artifact follows the same governance principles regardless of its type.
+
+---
+
+## Governance Philosophy
+
+Every change should have:
+
+- A clear purpose
+- A documented rationale
+- A review process
+- An approval mechanism
+- A traceable history
+
+Governance transforms individual contributions into collective enterprise knowledge.
+
+---
+
+## Document Lifecycle
+
+Every architectural document progresses through a defined lifecycle.
+
+```text
+Draft
+   │
+   ▼
+Proposed
+   │
+   ▼
+Review
+   │
+   ▼
+Accepted
+   │
+   ▼
+Approved
+   │
+   ▼
+Released
+   │
+   ▼
+Superseded
+   │
+   ▼
+Archived
+```
+
+Each stage serves a specific purpose in maintaining architectural quality and organizational memory.
+
+---
+
+## Lifecycle Stages
+
+### Draft
+
+The document is under active development.
+
+Content may change significantly and should not be considered authoritative.
+
+---
+
+### Proposed
+
+The document is ready for architectural discussion.
+
+Feedback and improvements are encouraged.
+
+---
+
+### Review
+
+The document is being evaluated for technical accuracy, consistency, governance, and architectural alignment.
+
+---
+
+### Accepted
+
+The document has reached architectural consensus and is ready for formal approval.
+
+---
+
+### Approved
+
+The document becomes part of the official DevinaOS architecture baseline.
+
+Approved documents represent the canonical Enterprise Memory.
+
+---
+
+### Released
+
+The document is published as an official architectural artifact within the DevinaOS repository.
+
+Released documents become the reference for future work.
+
+---
+
+### Superseded
+
+A newer document replaces the current version.
+
+The document remains available for historical traceability.
+
+---
+
+### Archived
+
+The document is retained solely for historical reference.
+
+Archived documents preserve enterprise knowledge without influencing current architecture.
+
+---
+
+## Governance Principles
+
+Governance within DevinaOS is based on several enduring principles.
+
+- Architecture before implementation
+- Decisions before execution
+- Standards before customization
+- Documentation before automation
+- Traceability before optimization
+- Evolution without losing history
+
+These principles ensure that enterprise growth never compromises architectural integrity.
+
+---
+
+## Governance in GitHub
+
+GitHub provides the governance platform supporting DevinaOS.
+
+Typical governance activities include:
+
+- Pull Requests
+- Reviews
+- Version Control
+- Commit History
+- Releases
+- Discussions
+- Issues
+- Projects
+
+Together, these capabilities provide a transparent and auditable governance model.
+
+---
+
+## Enterprise Memory
+
+Every approved document contributes to the Enterprise Memory.
+
+Nothing important should disappear.
+
+Instead, knowledge evolves through versioning, governance, and traceable architectural decisions.
+
+Enterprise Memory enables organizations to preserve not only what was decided—but also why it was decided.
+
+---
+
+> **Governance preserves consistency. Enterprise Memory preserves wisdom.**
