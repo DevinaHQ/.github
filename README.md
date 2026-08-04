@@ -1884,3 +1884,138 @@ We are building a shared architectural foundation for the enterprises of tomorro
 ---
 
 > **Great architecture is not created by individuals. It is refined through collaboration.**
+
+<!-- ====================================================================== -->
+<!-- Part 12 — Appendix & References                                        -->
+<!-- ====================================================================== -->
+
+# Appendix & References
+
+This appendix provides supporting information for readers who wish to explore DevinaOS beyond this introductory document.
+
+The README serves as the gateway to the Enterprise Operating System.
+
+The complete architectural definitions, governance rules, standards, and implementation guidance are maintained within the DevinaOS documentation ecosystem.
+
+---
+
+# Core Architecture References
+
+The following Architecture Families define the canonical structure of DevinaOS.
+
+| Family | Description |
+|---------|-------------|
+| FOUNDATION | Enterprise foundation |
+| HISTORY | Enterprise history |
+| PHIL | Enterprise philosophy |
+| PRIN | Core principles |
+| ARCH | Enterprise architecture |
+| ADR | Architecture Decision Records |
+| MAP | Enterprise information maps |
+| META | Meta architecture |
+| DOMAIN | Business domains |
+| CAP | Enterprise capabilities |
+| MOD | Enterprise modules |
+| PARTY | Enterprise actors |
+| SRV | Enterprise services |
+| WF | Enterprise workflows |
+| DATA | Enterprise data |
+| REG | Enterprise registries |
+| POL | Enterprise policies |
+| STD | Enterprise standards |
+| GL | Enterprise guidelines |
+| SOP | Standard Operating Procedures |
+| WI | Work Instructions |
+| DOC | Documentation standards |
+| REVIEW | Architecture reviews |
+| BLUE | Enterprise blueprints |
+| LEARN | Enterprise learning |
+| FIN | Enterprise financial architecture |
+| ONTO | Enterprise ontology |
+| MAXIM | Enterprise maxims |
+
+These Architecture Families together form the canonical Enterprise Operating System.
+
+---
+
+# Key Concepts
+
+Throughout the DevinaOS documentation, several concepts appear repeatedly.
+
+These concepts define the language of the Enterprise Operating System.
+
+- Enterprise Operating System (EOS)
+- Enterprise Universe
+- Enterprise Memory
+- Architecture Families
+- Architecture Layers
+- Canonical Enterprise Structure (CES)
+- Enterprise Layer Model (ELM)
+- DevinaOS Enterprise Reference Architecture (DERA)
+- Enterprise Maturity Model (EMM)
+
+Together, these concepts establish the architectural vocabulary of DevinaOS.
+
+---
+
+# Guiding Principles
+
+The Enterprise Operating System is built upon several enduring principles.
+
+- Architecture First
+- Governance by Design
+- Knowledge as a Strategic Asset
+- Enterprise Memory
+- Traceability
+- Continuous Evolution
+- AI-Native Collaboration
+
+These principles remain stable even as technologies, tools, and implementation approaches evolve.
+
+---
+
+# Looking Ahead
+
+This README introduces the philosophy, structure, and vision of DevinaOS.
+
+The journey continues through the Architecture Families, where each document expands upon a specific aspect of the Enterprise Operating System.
+
+As DevinaOS evolves, new architectural domains, enterprise capabilities, AI components, and governance models will continue to be added while preserving consistency and Enterprise Memory.
+
+The architecture is designed to grow without losing its foundation.
+
+---
+
+# Final Thought
+
+Organizations change.
+
+Technology evolves.
+
+Artificial Intelligence advances.
+
+Architecture endures.
+
+Enterprise Memory grows.
+
+DevinaOS exists to help organizations remember, govern, and continuously evolve.
+
+---
+
+> **One Enterprise. One Architecture. One Memory. Continuous Evolution.**
+
+---
+
+## License
+
+Unless otherwise specified, the contents of this repository are released under the applicable open-source license defined for the project.
+
+Please refer to the repository license for detailed terms and conditions.
+
+---
+
+## Acknowledgements
+
+DevinaOS is an ongoing architectural initiative dedicated to advancing Enterprise Architecture, governance, organizational knowledge, and AI-native enterprise systems.
+
+Every contribution helps strengthen the Enterprise Operating System and its long-term Enterprise Memory.
