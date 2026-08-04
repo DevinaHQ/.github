@@ -594,3 +594,181 @@ Rather than documenting an organization at a single point in time, DevinaOS enab
 ---
 
 > **One Enterprise. One Universe. One Operating System.**
+
+<!-- ====================================================================== -->
+<!-- Part 5 — Architecture Families                                         -->
+<!-- ====================================================================== -->
+
+# Architecture Families
+
+The DevinaOS Enterprise Operating System is organized into a collection of **Architecture Families**.
+
+Each family represents a specific architectural responsibility within the Enterprise Universe.
+
+Rather than functioning as isolated documentation sets, these families form a connected architecture where every element contributes to a governed, traceable, and continuously evolving enterprise.
+
+Together, they establish the canonical structure of DevinaOS.
+
+---
+
+## Enterprise Foundation
+
+These families define why the enterprise exists and establish its long-term direction.
+
+| Family | Purpose |
+|---------|---------|
+| FOUNDATION | Establish the foundational structure of DevinaOS |
+| HISTORY | Preserve the historical evolution of the enterprise |
+| PHIL | Define the enterprise philosophy |
+| PRIN | Define the guiding principles |
+| MAXIM | Preserve timeless wisdom and enduring truths |
+
+---
+
+## Enterprise Architecture
+
+These families describe how the enterprise is architected.
+
+| Family | Purpose |
+|---------|---------|
+| ARCH | Enterprise Architecture |
+| ADR | Architecture Decision Records |
+| MAP | Enterprise Information Maps |
+| META | Meta Architecture describing the architecture itself |
+| BLUE | Enterprise Blueprint |
+
+---
+
+## Business Architecture
+
+These families model the business itself.
+
+| Family | Purpose |
+|---------|---------|
+| DOMAIN | Business Domains |
+| CAP | Enterprise Capabilities |
+| MOD | Enterprise Modules |
+| SRV | Enterprise Services |
+| WF | Enterprise Workflows |
+| PARTY | Enterprise Parties and Actors |
+
+---
+
+## Enterprise Information
+
+These families define enterprise information assets.
+
+| Family | Purpose |
+|---------|---------|
+| DATA | Enterprise Data Architecture |
+| REG | Enterprise Registries |
+| ONTO | Enterprise Ontology |
+| LEARN | Enterprise Learning and Organizational Knowledge |
+| FIN | Enterprise Financial Architecture |
+
+---
+
+## Governance
+
+These families preserve consistency across the Enterprise Operating System.
+
+| Family | Purpose |
+|---------|---------|
+| POL | Enterprise Policies |
+| STD | Enterprise Standards |
+| GL | Enterprise Guidelines |
+| SOP | Standard Operating Procedures |
+| WI | Work Instructions |
+| DOC | Documentation Standards |
+| REVIEW | Architecture Assessment and Reviews |
+
+---
+
+## Relationship Between Families
+
+Each Architecture Family has a unique responsibility.
+
+Together, they create a complete Enterprise Operating System.
+
+```text
+FOUNDATION
+      │
+      ▼
+PHIL
+      │
+      ▼
+PRIN
+      │
+      ▼
+POL
+      │
+      ▼
+STD
+      │
+      ▼
+GL
+      │
+      ▼
+ARCH
+      │
+      ▼
+DOMAIN
+      │
+      ▼
+CAP
+      │
+      ▼
+MOD
+      │
+      ▼
+SRV
+      │
+      ▼
+WF
+      │
+      ▼
+DATA
+      │
+      ▼
+LEARN
+      │
+      ▼
+AI
+```
+
+The flow illustrates how philosophy becomes principles, principles become governance, governance shapes architecture, architecture enables business capabilities, and enterprise knowledge continuously evolves through learning and AI-assisted intelligence.
+
+---
+
+## Architectural Characteristics
+
+Every Architecture Family is designed to be:
+
+- Independent in responsibility
+- Connected through traceability
+- Governed by shared standards
+- Version controlled
+- Continuously evolving
+- AI-readable
+- Human understandable
+- Reusable across enterprises
+
+---
+
+## Canonical Enterprise Structure
+
+Architecture Families are not folders.
+
+They are the architectural language of DevinaOS.
+
+Every document belongs to a family.
+
+Every family has a purpose.
+
+Every purpose contributes to the Enterprise Operating System.
+
+Together, they form the canonical architecture of DevinaOS.
+
+---
+
+> **Many documents. One architecture. One Enterprise Operating System.**
