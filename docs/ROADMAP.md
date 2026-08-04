@@ -15,6 +15,14 @@
 | **Primary Location** | `docs/ROADMAP.md` |
 
 ---
+## Document Status
+
+This document is maintained as a **Living Document**.
+
+Unlike architecture standards or approved governance documents, the roadmap evolves continuously to reflect the long-term strategic direction of DevinaOS.
+
+Changes to this document should remain aligned with approved architectural decisions whenever applicable.
+---
 
 # Part 0 — Document Foundation
 
@@ -101,6 +109,41 @@ Major changes should be supported by approved architectural decisions whenever a
 >
 > **Governance ensures continuity.**
 >
+> # Part 1 — Executive Summary
+
+DevinaOS is a long-term initiative to build an Enterprise Operating System (EOS) that unifies enterprise architecture, governance, documentation, knowledge, and AI into a single evolving ecosystem.
+
+Unlike traditional software roadmaps that primarily focus on features and releases, the DevinaOS Roadmap describes the strategic evolution of the platform itself. It defines how the project grows from a foundational architecture into a mature Enterprise Operating System capable of supporting organizations over decades of continuous change.
+
+This roadmap is intentionally architecture-driven rather than feature-driven. Each evolution stage represents a meaningful advancement in enterprise capability, governance maturity, and organizational intelligence.
+
+The roadmap is designed to provide:
+
+- A shared long-term direction for DevinaOS.
+- A common understanding of strategic priorities.
+- A framework for aligning architectural decisions.
+- A reference for evaluating future initiatives.
+- A guide for contributors and future collaborators.
+
+Every stage of the roadmap contributes to a single objective:
+
+> Building an Enterprise Operating System that enables organizations to preserve knowledge, govern change, and continuously evolve.
+
+The roadmap is maintained as a Living Document. It evolves incrementally as DevinaOS grows while remaining aligned with approved architectural decisions and enterprise governance principles.
+
+This roadmap is not intended to predict every future implementation.
+
+Instead, it establishes a stable architectural direction that allows DevinaOS to evolve consistently without losing its vision, governance, or enterprise identity.
+
+Every evolution stage described in this document represents another step toward realizing the long-term vision of DevinaOS as an Enterprise Operating System.
+
+---
+
+> **Architecture provides direction.**
+>
+> **Governance enables continuity.**
+>
+> **Roadmaps preserve evolution.**
 > # Part 2 — Vision
 
 ## Vision Statement
