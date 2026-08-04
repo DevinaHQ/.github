@@ -1545,3 +1545,182 @@ Enterprise Memory enables organizations to preserve not only what was decided—
 ---
 
 > **Governance preserves consistency. Enterprise Memory preserves wisdom.**
+
+<!-- ====================================================================== -->
+<!-- Part 10 — Roadmap & Project Status                                     -->
+<!-- ====================================================================== -->
+
+# Roadmap & Project Status
+
+DevinaOS is a long-term initiative to build an Enterprise Operating System.
+
+Rather than focusing on short-term feature delivery, the project evolves through architectural milestones that establish increasingly mature enterprise capabilities.
+
+Each phase builds upon the previous one while preserving architectural integrity and Enterprise Memory.
+
+---
+
+# Development Roadmap
+
+## Phase 1 — Foundation
+
+Establish the architectural foundation of DevinaOS.
+
+Primary objectives include:
+
+- Enterprise Philosophy
+- Core Principles
+- Governance Framework
+- Enterprise Architecture
+- Architecture Decision Records
+- Information Maps
+- Documentation Standards
+- Repository Structure
+
+**Status:** 🟢 In Progress
+
+---
+
+## Phase 2 — Enterprise Architecture
+
+Expand the Enterprise Operating System through structured architectural domains.
+
+Primary objectives include:
+
+- Domain Architecture
+- Capability Architecture
+- Module Architecture
+- Service Architecture
+- Workflow Architecture
+- Data Architecture
+- Enterprise Registries
+
+**Status:** 🟡 Planned
+
+---
+
+## Phase 3 — Enterprise Intelligence
+
+Transform enterprise knowledge into organizational intelligence.
+
+Primary objectives include:
+
+- Enterprise Memory
+- Knowledge Graph
+- Enterprise Ontology
+- Semantic Relationships
+- Organizational Learning
+- Decision Intelligence
+
+**Status:** 🔵 Planned
+
+---
+
+## Phase 4 — AI-Native Enterprise
+
+Enable AI as a governed participant within the Enterprise Operating System.
+
+Primary objectives include:
+
+- AI Agents
+- AI-Assisted Decision Support
+- Multi-Agent Collaboration
+- Intelligent Automation
+- Human-AI Collaboration
+- Enterprise Reasoning
+
+**Status:** ⚪ Vision
+
+---
+
+## Phase 5 — Autonomous Enterprise
+
+Support organizations capable of continuous learning and governed autonomous evolution.
+
+Long-term vision includes:
+
+- Autonomous Enterprise Operations
+- Self-Improving Architectures
+- Continuous Enterprise Learning
+- Adaptive Governance
+- Enterprise Digital Twin
+
+**Status:** 🔭 Long-Term Vision
+
+---
+
+# Current Project Status
+
+Current focus is establishing the foundational architecture of DevinaOS.
+
+The project is actively defining the concepts, governance model, architectural language, and canonical documentation that will support future enterprise capabilities.
+
+Current areas of work include:
+
+- README
+- Governance
+- Enterprise Architecture
+- Documentation Standards
+- Architecture Families
+- Repository Organization
+
+As the foundation matures, additional repositories, enterprise components, and implementation projects will be introduced.
+
+---
+
+# Development Principles
+
+The roadmap follows several architectural principles.
+
+- Foundation before implementation
+- Governance before automation
+- Architecture before technology
+- Knowledge before intelligence
+- Intelligence before autonomy
+
+Each phase must provide a stable foundation for the next.
+
+---
+
+# Project Maturity
+
+```text
+Foundation
+      │
+      ▼
+Architecture
+      │
+      ▼
+Knowledge
+      │
+      ▼
+Intelligence
+      │
+      ▼
+AI
+      │
+      ▼
+Autonomous Enterprise
+```
+
+This progression reflects the long-term vision of DevinaOS as an Enterprise Operating System that evolves from architectural foundations toward intelligent and adaptive enterprises.
+
+---
+
+# Looking Ahead
+
+The Enterprise Operating System is never considered complete.
+
+Organizations evolve.
+
+Technology changes.
+
+Knowledge grows.
+
+Architecture adapts.
+
+DevinaOS is designed to evolve continuously while preserving consistency, governance, and Enterprise Memory.
+
+---
+
+> **Build the foundation today. Enable the enterprise of tomorrow.**
