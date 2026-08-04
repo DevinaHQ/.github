@@ -1134,3 +1134,241 @@ These principles ensure that every repository contributes consistently to the En
 ---
 
 > **The repository is not where architecture is stored. It is where architecture lives.**
+
+<!-- ====================================================================== -->
+<!-- Part 8 — Reading Guide                                                 -->
+<!-- ====================================================================== -->
+
+# Reading Guide
+
+DevinaOS is a comprehensive Enterprise Operating System.
+
+While every document contributes to the overall architecture, not every reader begins from the same place.
+
+This guide provides recommended learning paths based on different goals and responsibilities.
+
+Whether you are exploring DevinaOS for the first time or contributing to its architecture, these paths help you navigate the Enterprise Universe efficiently.
+
+---
+
+## First-Time Readers
+
+If this is your first visit, begin with the foundational concepts.
+
+```text
+README
+    │
+    ▼
+Manifesto
+    │
+    ▼
+Hero
+    │
+    ▼
+What is DevinaOS?
+    │
+    ▼
+Philosophy & Core Principles
+    │
+    ▼
+Enterprise Universe
+```
+
+This path provides the vision, philosophy, and high-level architecture before exploring the detailed documentation.
+
+---
+
+## Enterprise Architects
+
+Recommended reading order:
+
+```text
+README
+    │
+    ▼
+FOUNDATION
+    │
+    ▼
+ARCH
+    │
+    ▼
+ADR
+    │
+    ▼
+MAP
+    │
+    ▼
+META
+    │
+    ▼
+DOMAIN
+    │
+    ▼
+CAP
+```
+
+This path focuses on understanding the architectural foundation and enterprise design.
+
+---
+
+## Contributors
+
+Before contributing, become familiar with the governance model.
+
+```text
+README
+    │
+    ▼
+DOC
+    │
+    ▼
+STD
+    │
+    ▼
+POL
+    │
+    ▼
+GL
+    │
+    ▼
+REVIEW
+```
+
+Following these documents helps maintain consistency across the Enterprise Operating System.
+
+---
+
+## Business Stakeholders
+
+Recommended reading:
+
+```text
+README
+    │
+    ▼
+PHIL
+    │
+    ▼
+PRIN
+    │
+    ▼
+DOMAIN
+    │
+    ▼
+CAP
+    │
+    ▼
+SRV
+```
+
+This path explains how enterprise strategy is translated into business capabilities and services.
+
+---
+
+## Developers & Engineers
+
+Recommended reading:
+
+```text
+README
+    │
+    ▼
+ARCH
+    │
+    ▼
+MOD
+    │
+    ▼
+DATA
+    │
+    ▼
+WF
+    │
+    ▼
+ADR
+```
+
+This path introduces the architectural decisions that influence implementation.
+
+---
+
+## AI Engineers
+
+Recommended reading:
+
+```text
+README
+    │
+    ▼
+Enterprise Universe
+    │
+    ▼
+DATA
+    │
+    ▼
+ONTO
+    │
+    ▼
+LEARN
+    │
+    ▼
+Enterprise Memory
+```
+
+This path introduces the knowledge structures that support AI-native collaboration and enterprise intelligence.
+
+---
+
+## Learning Philosophy
+
+DevinaOS is designed to be learned progressively.
+
+Understanding begins with philosophy.
+
+Philosophy guides governance.
+
+Governance shapes architecture.
+
+Architecture enables business.
+
+Business produces information.
+
+Information becomes enterprise knowledge.
+
+Knowledge empowers intelligence.
+
+Intelligence drives continuous evolution.
+
+---
+
+## Learn by Layers
+
+Rather than reading documents alphabetically, readers are encouraged to learn layer by layer.
+
+```text
+Philosophy
+      │
+      ▼
+Governance
+      │
+      ▼
+Architecture
+      │
+      ▼
+Business
+      │
+      ▼
+Operations
+      │
+      ▼
+Information
+      │
+      ▼
+Intelligence
+```
+
+Each layer provides the context needed to understand the next.
+
+---
+
+> **Understanding the architecture is not about reading every document. It is about following the relationships between them.**
