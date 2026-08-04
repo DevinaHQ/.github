@@ -772,3 +772,221 @@ Together, they form the canonical architecture of DevinaOS.
 ---
 
 > **Many documents. One architecture. One Enterprise Operating System.**
+
+<!-- ====================================================================== -->
+<!-- Part 6 — Architecture Layers                                           -->
+<!-- ====================================================================== -->
+
+# Architecture Layers
+
+The DevinaOS Enterprise Operating System is organized into a layered architecture.
+
+Each layer has a distinct responsibility while building upon the layers above it.
+
+This layered approach ensures that every architectural decision remains aligned with enterprise philosophy, governance, and long-term strategic objectives.
+
+Unlike traditional documentation structures, Architecture Layers describe how the enterprise operates—not merely how documents are organized.
+
+---
+
+## The Layered Enterprise
+
+```text
+┌──────────────────────────────────────────────┐
+│              Philosophy Layer                │
+│   WHY does the enterprise exist?             │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│             Governance Layer                 │
+│   HOW should the enterprise be governed?     │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│            Architecture Layer                │
+│   HOW is the enterprise designed?            │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│            Business Layer                    │
+│   WHAT capabilities does it provide?         │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│            Operational Layer                 │
+│   HOW does the enterprise operate?           │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│           Information Layer                  │
+│   WHAT knowledge and data are produced?      │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│            Intelligence Layer                │
+│   HOW does the enterprise learn and evolve?  │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## Layer Responsibilities
+
+### Philosophy Layer
+
+Defines the identity of the enterprise.
+
+This layer answers questions such as:
+
+- Why does the enterprise exist?
+- What principles guide every decision?
+- What long-term values must be preserved?
+
+Representative Architecture Families:
+
+- FOUNDATION
+- HISTORY
+- PHIL
+- PRIN
+- MAXIM
+
+---
+
+### Governance Layer
+
+Transforms philosophy into organizational rules.
+
+Representative Architecture Families:
+
+- POL
+- STD
+- GL
+- DOC
+- REVIEW
+
+---
+
+### Architecture Layer
+
+Defines the structural blueprint of the enterprise.
+
+Representative Architecture Families:
+
+- ARCH
+- ADR
+- MAP
+- META
+- BLUE
+
+---
+
+### Business Layer
+
+Describes what the enterprise is capable of delivering.
+
+Representative Architecture Families:
+
+- DOMAIN
+- CAP
+- MOD
+- SRV
+- PARTY
+
+---
+
+### Operational Layer
+
+Describes how business capabilities are executed.
+
+Representative Architecture Families:
+
+- WF
+- SOP
+- WI
+
+---
+
+### Information Layer
+
+Captures enterprise knowledge and information assets.
+
+Representative Architecture Families:
+
+- DATA
+- REG
+- ONTO
+- FIN
+- LEARN
+
+---
+
+### Intelligence Layer
+
+Transforms enterprise knowledge into continuous learning and AI-assisted decision support.
+
+Future capabilities include:
+
+- Enterprise Memory
+- Knowledge Graph
+- AI Agents
+- Semantic Search
+- Decision Intelligence
+
+---
+
+## Architectural Flow
+
+The layers form a continuous flow rather than isolated architectural domains.
+
+```text
+Philosophy
+      │
+      ▼
+Governance
+      │
+      ▼
+Architecture
+      │
+      ▼
+Business
+      │
+      ▼
+Operations
+      │
+      ▼
+Information
+      │
+      ▼
+Intelligence
+      │
+      ▼
+Continuous Evolution
+```
+
+Each layer enriches the next while remaining governed by the enterprise principles established at the top of the architecture.
+
+---
+
+## Design Characteristics
+
+The Architecture Layers are designed to be:
+
+- Hierarchical
+- Governed
+- Traceable
+- Modular
+- Technology-agnostic
+- AI-ready
+- Enterprise-scalable
+
+Together, they provide a stable foundation for the continuous evolution of the Enterprise Operating System.
+
+---
+
+> **Strong enterprises are built layer by layer—not application by application.**
