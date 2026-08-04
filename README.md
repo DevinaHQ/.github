@@ -1724,3 +1724,163 @@ DevinaOS is designed to evolve continuously while preserving consistency, govern
 ---
 
 > **Build the foundation today. Enable the enterprise of tomorrow.**
+
+<!-- ====================================================================== -->
+<!-- Part 11 — Contributing Guide                                           -->
+<!-- ====================================================================== -->
+
+# Contributing Guide
+
+DevinaOS is built through collaboration.
+
+Every contribution—whether it is an architectural improvement, a documentation update, a new idea, or a refinement of an existing concept—becomes part of the Enterprise Operating System.
+
+Contributors are not simply editing documents.
+
+They are helping shape a governed body of enterprise knowledge that is intended to evolve over time.
+
+---
+
+# Contribution Philosophy
+
+The quality of DevinaOS depends not only on what is added, but also on how it is added.
+
+Every contribution should:
+
+- Improve clarity
+- Strengthen architecture
+- Preserve consistency
+- Respect governance
+- Increase Enterprise Memory
+
+Our goal is not to produce more documentation.
+
+Our goal is to build better architecture.
+
+---
+
+# Before You Contribute
+
+Before submitting any contribution, please:
+
+1. Read the README.
+2. Understand the Enterprise Philosophy.
+3. Follow the Documentation Standards.
+4. Review the relevant Architecture Families.
+5. Check whether an existing document already addresses the topic.
+
+Whenever possible, improve the existing architecture before creating new artifacts.
+
+---
+
+# Contribution Workflow
+
+All contributions should follow a governed workflow.
+
+```text
+Idea
+   │
+   ▼
+Discussion
+   │
+   ▼
+Proposal
+   │
+   ▼
+Review
+   │
+   ▼
+Approval
+   │
+   ▼
+Implementation
+   │
+   ▼
+Release
+```
+
+This process ensures that architectural quality is preserved while encouraging continuous improvement.
+
+---
+
+# Contribution Principles
+
+Contributors are encouraged to:
+
+- Think architecturally.
+- Document decisions.
+- Preserve traceability.
+- Keep responsibilities clear.
+- Prefer evolution over replacement.
+- Reuse before creating new structures.
+- Maintain consistency across the Enterprise Universe.
+
+---
+
+# Pull Requests
+
+Every Pull Request should have a clear purpose.
+
+A good Pull Request answers three questions:
+
+- What problem does this solve?
+- Why is this change necessary?
+- How does this improve the Enterprise Operating System?
+
+Small, focused Pull Requests are preferred over large, unrelated changes.
+
+---
+
+# Documentation Standards
+
+Every document should:
+
+- Belong to an Architecture Family.
+- Have a single responsibility.
+- Follow the established templates.
+- Maintain consistent terminology.
+- Preserve links to related architectural artifacts.
+
+Documentation is part of the architecture—not an afterthought.
+
+---
+
+# Governance
+
+All approved contributions become part of the canonical Enterprise Memory.
+
+Governance exists to preserve quality, consistency, and long-term maintainability.
+
+Changes should improve the architecture without compromising its integrity.
+
+---
+
+# Community Values
+
+We value contributors who:
+
+- Respect different perspectives.
+- Base discussions on architectural reasoning.
+- Welcome constructive feedback.
+- Share knowledge openly.
+- Build for long-term sustainability rather than short-term convenience.
+
+DevinaOS grows through collaboration founded on trust, transparency, and continuous learning.
+
+---
+
+# Build Together
+
+Every contribution strengthens the Enterprise Operating System.
+
+Every review improves the architecture.
+
+Every decision enriches the Enterprise Memory.
+
+Together, we are building more than a repository.
+
+We are building a shared architectural foundation for the enterprises of tomorrow.
+
+---
+
+> **Great architecture is not created by individuals. It is refined through collaboration.**
