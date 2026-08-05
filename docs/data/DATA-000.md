@@ -20,9 +20,9 @@ Document Owner: Architecture Board
 
 Authority: Enterprise Data Architecture
 
-Approval Date: YYYY-MM-DD
+Approval Date: 2026-07-31
 
-Effective Date: YYYY-MM-DD
+Effective Date: 2026-07-31
 
 ---
 
