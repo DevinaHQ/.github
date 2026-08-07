@@ -65,14 +65,9 @@ The Introduction Series provides the conceptual foundation of DevinaOS before re
 
 ---
 
-# Current Baseline
+## Baseline
 
-| Document | Status |
-|----------|--------|
-| REG-000 Enterprise Registry Architecture | ✅ Baseline |
-| REG-006 Enterprise Registry Reference Architecture | ✅ Baseline |
-
-Additional baseline documents will be published incrementally after Architecture Review.
+Approved baseline documents are published incrementally following Architecture Review and are available throughout the DevinaOS documentation repository.
 
 ---
 
