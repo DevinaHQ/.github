@@ -16,8 +16,6 @@ Rather than replacing existing enterprise applications, DevinaOS provides the ar
 
 The Introduction Series provides the conceptual foundation of DevinaOS before readers explore the Enterprise Architecture documentation.
 
-## Introduction Series
-
 | Document | Description |
 |-----------|-------------|
 | **[INTRO-000](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-000.md)** | DevinaOS Manifesto |
@@ -65,34 +63,28 @@ The Introduction Series provides the conceptual foundation of DevinaOS before re
 
 ---
 
-## Baseline
-
-Approved baseline documents are published incrementally following Architecture Review and are available throughout the DevinaOS documentation repository.
-
----
-
 # Repository Structure
 
 ```text
 docs/
 
-INTRO/
-ARCH/
-META/
-MAP/
-DATA/
-REG/
-DOMAIN/
-CAP/
-MOD/
-SPEC/
-ADR/
-POL/
-STD/
-GL/
-SOP/
-WI/
-REVIEW/
+intro/
+arch/
+meta/
+map/
+data/
+reg/
+domain/
+cap/
+mod/
+spec/
+adr/
+pol/
+std/
+gl/
+sop/
+wi/
+review/
 ```
 
 ---
@@ -118,8 +110,6 @@ Baseline
 GitHub Publication
 ```
 
-Only baseline documents are published to the official DevinaOS repository.
-
 ---
 
 # Getting Started
@@ -128,9 +118,10 @@ New to DevinaOS?
 
 Start here:
 
-➡️ **[INTRO-000 — DevinaOS Manifesto]([docs/intro/INTRO-000.md](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-000.md))**
+➡️ **[INTRO-000 — DevinaOS Manifesto](../docs/intro/INTRO-000.md)**
 
 Then continue reading the remaining documents in the Introduction Series (INTRO-001 through INTRO-011) before exploring the Enterprise Architecture Series.
+
 ---
 
 > **One Enterprise. One Architecture. One Memory. Continuous Evolution.**
