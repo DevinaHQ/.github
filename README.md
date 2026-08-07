@@ -43,16 +43,9 @@ The Enterprise Foundation establishes the architectural principles, governance, 
 
 ---
 
-## Current Baseline
+## Baseline
 
-### Foundation Architecture
-
-| Document | Status |
-|----------|--------|
-| REG-000 — Enterprise Registry Architecture | ✅ Baseline |
-| REG-006 — Enterprise Registry Reference Architecture | ✅ Baseline |
-
-Additional baseline documents will be published incrementally following Architecture Review and Approval.
+Approved baseline documents are published incrementally following Architecture Review and are available throughout the DevinaOS documentation repository.
 
 ---
 
