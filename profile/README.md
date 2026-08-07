@@ -4,7 +4,7 @@
 <!-- ====================================================================== -->
 
 # DevinaOS
-
+---
 ## The Manifesto
 
 Most organizations don't suffer from a lack of software.
