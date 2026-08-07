@@ -16,20 +16,22 @@ Rather than replacing existing enterprise applications, DevinaOS provides the ar
 
 The Introduction Series provides the conceptual foundation of DevinaOS before readers explore the Enterprise Architecture documentation.
 
+## Introduction Series
+
 | Document | Description |
 |-----------|-------------|
-| **[INTRO-000](docs/intro/INTRO-000.md)** | DevinaOS Manifesto |
-| **[INTRO-001](docs/intro/INTRO-001.md)** | What is DevinaOS? |
-| **[INTRO-002](docs/intro/INTRO-002.md)** | Philosophy & Core Principles |
-| **[INTRO-003](docs/intro/INTRO-003.md)** | Enterprise Universe |
-| **[INTRO-004](docs/intro/INTRO-004.md)** | Architecture Families |
-| **[INTRO-005](docs/intro/INTRO-005.md)** | Architecture Layers |
-| **[INTRO-006](docs/intro/INTRO-006.md)** | Repository Structure |
-| **[INTRO-007](docs/intro/INTRO-007.md)** | Reading Guide |
-| **[INTRO-008](docs/intro/INTRO-008.md)** | Governance & Lifecycle |
-| **[INTRO-009](docs/intro/INTRO-009.md)** | Roadmap & Project Status |
-| **[INTRO-010](docs/intro/INTRO-010.md)** | Contributing Guide |
-| **[INTRO-011](docs/intro/INTRO-011.md)** | Appendix & References |
+| **[INTRO-000](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-000.md)** | DevinaOS Manifesto |
+| **[INTRO-001](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-001.md)** | What is DevinaOS? |
+| **[INTRO-002](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-002.md)** | Philosophy & Core Principles |
+| **[INTRO-003](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-003.md)** | Enterprise Universe |
+| **[INTRO-004](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-004.md)** | Architecture Families |
+| **[INTRO-005](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-005.md)** | Architecture Layers |
+| **[INTRO-006](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-006.md)** | Repository Structure |
+| **[INTRO-007](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-007.md)** | Reading Guide |
+| **[INTRO-008](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-008.md)** | Governance & Lifecycle |
+| **[INTRO-009](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-009.md)** | Roadmap & Project Status |
+| **[INTRO-010](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-010.md)** | Contributing Guide |
+| **[INTRO-011](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-011.md)** | Appendix & References |
 
 ---
 
@@ -131,7 +133,7 @@ New to DevinaOS?
 
 Start here:
 
-➡️ **[INTRO-000 — DevinaOS Manifesto](docs/intro/INTRO-000.md)**
+➡️ **[INTRO-000 — DevinaOS Manifesto]([docs/intro/INTRO-000.md](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-000.md))**
 
 Then continue reading the remaining documents in the Introduction Series (INTRO-001 through INTRO-011) before exploring the Enterprise Architecture Series.
 ---
