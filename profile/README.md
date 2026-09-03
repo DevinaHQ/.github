@@ -1,126 +1,45 @@
-# DevinaOS
+# DevinaHQ
 
-> **An AI-native Enterprise Operating System for knowledge, governance, business, and intelligent systems.**
+> **Technology, research, systems, and long-term experimentation under one coherent architecture.**
 
----
+DevinaHQ is the organization and technology lab behind the DevinaOS ecosystem and related systems, research, and product experiments.
 
-## Welcome
+## Core initiatives
 
-DevinaOS is an Enterprise Operating System (EOS) designed to unify Enterprise Architecture, Governance, Knowledge, Business Capabilities, Enterprise Operations, and Artificial Intelligence into a single governed ecosystem.
+- **DevinaOS** — enterprise operating system architecture and platform direction
+- **Devina Intelligence / DIA** — intelligence layer and conversational assistant direction
+- **OLS** — Olympiad Learning System
+- **PLOOS** — Professional Legal Office Operating System
+- **CIYUS** — Client Intake, Yield & Opportunity System
 
-Rather than replacing existing enterprise applications, DevinaOS provides the architectural foundation that enables organizations to **remember, govern, evolve, and continuously improve**.
+The canonical organization-level repository is **[DevinaHQ/devina-hq](https://github.com/DevinaHQ/devina-hq)**.
 
----
+## DevinaOS documentation
 
-# Introduction Series
-
-The Introduction Series provides the conceptual foundation of DevinaOS before readers explore the Enterprise Architecture documentation.
+The DevinaOS Enterprise Architecture documentation is maintained in `DevinaHQ/devina-hq/docs`.
 
 | Document | Description |
-|-----------|-------------|
-| **[INTRO-000](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-000.md)** | DevinaOS Manifesto |
-| **[INTRO-001](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-001.md)** | What is DevinaOS? |
-| **[INTRO-002](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-002.md)** | Philosophy & Core Principles |
-| **[INTRO-003](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-003.md)** | Enterprise Universe |
-| **[INTRO-004](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-004.md)** | Architecture Families |
-| **[INTRO-005](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-005.md)** | Architecture Layers |
-| **[INTRO-006](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-006.md)** | Repository Structure |
-| **[INTRO-007](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-007.md)** | Reading Guide |
-| **[INTRO-008](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-008.md)** | Governance & Lifecycle |
-| **[INTRO-009](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-009.md)** | Roadmap & Project Status |
-| **[INTRO-010](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-010.md)** | Contributing Guide |
-| **[INTRO-011](https://github.com/DevinaHQ/.github/blob/main/docs/intro/INTRO-011.md)** | Appendix & References |
+|---|---|
+| **[INTRO-000](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-000.md)** | DevinaOS Manifesto |
+| **[INTRO-001](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-001.md)** | What is DevinaOS? |
+| **[INTRO-002](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-002.md)** | Philosophy & Core Principles |
+| **[INTRO-003](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-003.md)** | Enterprise Universe |
+| **[INTRO-004](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-004.md)** | Architecture Families |
+| **[INTRO-005](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-005.md)** | Architecture Layers |
+| **[INTRO-006](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-006.md)** | Repository Structure |
+| **[INTRO-007](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-007.md)** | Reading Guide |
+| **[INTRO-008](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-008.md)** | Governance & Lifecycle |
+| **[INTRO-009](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-009.md)** | Roadmap & Project Status |
+| **[INTRO-010](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-010.md)** | Contributing Guide |
+| **[INTRO-011](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-011.md)** | Appendix & References |
 
----
+Start with **[INTRO-000 — DevinaOS Manifesto](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-000.md)** and continue through the Introduction Series before exploring the architecture families.
 
-# Enterprise Architecture Series
+## Web namespace
 
-| Series | Description | Status |
-|---------|-------------|--------|
-| ARCH | Enterprise Architecture | 🟡 |
-| META | Enterprise Meta Architecture | 🟡 |
-| MAP | Enterprise Information Architecture | 🟡 |
-| DATA | Enterprise Data Architecture | 🟡 |
-| REG | Enterprise Registry Architecture | 🟡 |
-| DOMAIN | Enterprise Domain Architecture | 🟡 |
-| CAP | Enterprise Capability Architecture | 🟡 |
-| MOD | Enterprise Module Architecture | 🟡 |
-| SPEC | Enterprise Specification Architecture | 🟡 |
-| ADR | Architecture Decision Records | 🟡 |
-
----
-
-# Governance Series
-
-| Series | Description |
-|---------|-------------|
-| POL | Enterprise Policies |
-| STD | Enterprise Standards |
-| GL | Enterprise Guidelines |
-| SOP | Standard Operating Procedures |
-| WI | Work Instructions |
-| REVIEW | Architecture Reviews |
-
----
-
-# Repository Structure
-
-```text
-docs/
-
-intro/
-arch/
-meta/
-map/
-data/
-reg/
-domain/
-cap/
-mod/
-spec/
-adr/
-pol/
-std/
-gl/
-sop/
-wi/
-review/
-```
-
----
-
-# Governance Workflow
-
-```text
-Planning
-        │
-        ▼
-In Progress
-        │
-        ▼
-Review
-        │
-        ▼
-Verified
-        │
-        ▼
-Baseline
-        │
-        ▼
-GitHub Publication
-```
-
----
-
-# Getting Started
-
-New to DevinaOS?
-
-Start here:
-
-➡️ **[INTRO-000 — DevinaOS Manifesto](../docs/intro/INTRO-000.md)**
-
-Then continue reading the remaining documents in the Introduction Series (INTRO-001 through INTRO-011) before exploring the Enterprise Architecture Series.
+- `devina.id` — Devina Azaria academic & personal portfolio
+- `hq.devina.id` — DevinaHQ organization / technology lab
+- `*.devina.id` — project and system endpoints where applicable
 
 ---
 
