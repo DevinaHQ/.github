@@ -1,46 +1,81 @@
 # DevinaHQ
 
-> **Technology, research, systems, and long-term experimentation under one coherent architecture.**
+> **Bertumbuh melalui pengetahuan. Berkelanjutan melalui sistem.**
 
-DevinaHQ is the organization and technology lab behind the DevinaOS ecosystem and related systems, research, and product experiments.
+[Situs DevinaHQ](https://hq.devina.id/)
 
-## Core initiatives
+## Tujuan DevinaHQ
 
-- **DevinaOS** — enterprise operating system architecture and platform direction
-- **Devina Intelligence / DIA** — intelligence layer and conversational assistant direction
-- **OLS** — Olympiad Learning System
-- **PLOOS** — Professional Legal Office Operating System
-- **CIYUS** — Client Intake, Yield & Opportunity System
+DevinaHQ adalah payung pengembangan teknologi, riset, dan sistem yang menghubungkan pembelajaran dengan penerapan nyata. Kami membangun pengetahuan, produk, dan proses yang dapat terus digunakan, diperbaiki, dan dikembangkan.
 
-The canonical organization-level repository is **[DevinaHQ/devina-hq](https://github.com/DevinaHQ/devina-hq)**.
+Semangat **bertumbuh dan berkelanjutan** menjadi arah bersama: belajar dari masalah nyata, menguji gagasan, mencatat keputusan, dan membawa hasilnya kembali ke pengembangan berikutnya. Kemajuan ditunjukkan melalui manfaat bagi pengguna, pengetahuan yang bertambah, serta operasional yang semakin tertata.
 
-## DevinaOS documentation
+## Ekosistem dan Proyek
 
-The DevinaOS Enterprise Architecture documentation is maintained in `DevinaHQ/devina-hq/docs`.
+**DevinaHQ** menaungi arah, tata kelola, dan pengembangan ekosistem. Dua fondasi bersama mendukung produk dengan tanggung jawab yang berbeda:
 
-| Document | Description |
-|---|---|
-| **[INTRO-000](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-000.md)** | DevinaOS Manifesto |
-| **[INTRO-001](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-001.md)** | What is DevinaOS? |
-| **[INTRO-002](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-002.md)** | Philosophy & Core Principles |
-| **[INTRO-003](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-003.md)** | Enterprise Universe |
-| **[INTRO-004](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-004.md)** | Architecture Families |
-| **[INTRO-005](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-005.md)** | Architecture Layers |
-| **[INTRO-006](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-006.md)** | Repository Structure |
-| **[INTRO-007](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-007.md)** | Reading Guide |
-| **[INTRO-008](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-008.md)** | Governance & Lifecycle |
-| **[INTRO-009](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-009.md)** | Roadmap & Project Status |
-| **[INTRO-010](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-010.md)** | Contributing Guide |
-| **[INTRO-011](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-011.md)** | Appendix & References |
+- **DevinaOS** — fondasi arsitektur dan platform operasional bersama untuk pengetahuan, proses, data, serta integrasi. **Status: pengembangan.**
+- **Devina Intelligence (DI) dan DIA** — arah pengembangan kemampuan AI bersama dan antarmuka asisten. **Status: perancangan arsitektur; antarmuka direncanakan.**
 
-Start with **[INTRO-000 — DevinaOS Manifesto](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-000.md)** and continue through the Introduction Series before exploring the architecture families.
+Produk dan sistem memiliki tujuan serta tahap pengembangan masing-masing:
 
-## Web namespace
+| Produk / Sistem | Fokus | Status |
+|---|---|---|
+| **OLS** — Olympiad Learning System | Pembelajaran terstruktur, diagnostik, pendamping belajar, dan pemantauan kemajuan. | Beroperasi; terus dikembangkan |
+| **CIYUS** — Client Intake, Yield & Opportunity System | Pencatatan konsultasi, tindak lanjut, dan pemantauan layanan klien. | Pilot; pengembangan |
+| **PLOOS** — Professional Legal Office Operating System | Alur kerja kantor notaris, PPAT, dan profesi hukum. | Pengembangan; pilot |
+| **PULSE** | Perencanaan konten, penjadwalan, publikasi lintas kanal, dan analitik. | Pengembangan |
+| **XEGEL** | Layanan legalitas usaha, perizinan, perubahan badan usaha, merek, dan kepatuhan. | Perencanaan |
+| **Devina Music** | Penciptaan musik, katalog, produksi, metadata hak, dan pengelolaan rilisan. | Beroperasi; sistem terus dikembangkan |
 
-- `devina.id` — Devina Azaria academic & personal portfolio
-- `hq.devina.id` — DevinaHQ organization / technology lab
-- `*.devina.id` — project and system endpoints where applicable
+**Cuci Alas Kaki** merupakan implementasi klien yang beroperasi dan terus dikembangkan. Proyek ini menjadi tempat penerapan proses website, SEO lokal, konten, dan pengembangan alur layanan digital. Kemampuan yang dapat digunakan kembali dikembangkan menjadi komponen bersama.
+
+Status ringkas per **15 September 2026** mengacu pada [halaman sistem dan produk](https://hq.devina.id/systems-products). [devina.id](https://devina.id/) tetap menjadi portofolio akademik dan pribadi Devina Azaria.
+
+## Riset dan Paper
+
+DevinaHQ menerbitkan perspektif dan working paper untuk menghubungkan pemahaman manusia, ekonomi, teknologi, dan perancangan sistem. Tulisan menjadi bahan belajar, diskusi, serta pengembangan produk dan proses.
+
+Pilihan bacaan terbaru:
+
+| Paper | Pokok bahasan | Tanggal terbit |
+|---|---|---|
+| [Logika dan Sastra](https://hq.devina.id/papers/logika-dan-sastra) | Nalar, kepekaan, dan komunikasi manusia yang utuh. | 14 September 2026 |
+| [In This Economy](https://hq.devina.id/papers/in-this-economy) | Pertumbuhan ekonomi dan pengalaman biaya hidup sehari-hari. | 13 September 2026 |
+| [Perbankan dan Investasi](https://hq.devina.id/papers/perbankan-dan-investasi) | Perbankan, pengelolaan modal, dan pemikiran jangka panjang. | 12 September 2026 |
+
+[Jelajahi seluruh paper](https://hq.devina.id/papers)
+
+## Roadmap
+
+Fokus saat ini adalah **pilot produk dan operasional**. Pengembangan kemampuan bersama DevinaOS, DI, dan DIA berjalan bertahap, disertai pencatatan keputusan dan evaluasi hasil.
+
+Ukuran kemajuan yang dituju:
+
+| Prioritas | Hasil yang dituju | Bukti kemajuan |
+|---|---|---|
+| Pilot produk | Setiap produk pilot memiliki setidaknya satu alur utama yang dapat digunakan dan diuji. | Demo atau versi rilis, hasil uji, dan catatan perbaikan. |
+| Operasional digital | Proses konten dan layanan dapat dijalankan berulang serta ditelusuri hasilnya. | Catatan publikasi, status tindak lanjut, dan metrik penggunaan yang relevan. |
+| Riset dan pembelajaran | Paper memiliki rujukan, versi, serta tindak lanjut berupa revisi, tulisan lanjutan, atau penerapan. | Indeks publikasi dan riwayat pengembangan. |
+| Platform dan AI bersama | Kemampuan yang berulang dapat digunakan kembali oleh produk sesuai kebutuhannya. | Dokumentasi integrasi dan contoh penerapan yang telah diuji. |
+
+[Lihat tahapan roadmap DevinaHQ](https://hq.devina.id/roadmap)
+
+## Dokumentasi DevinaOS
+
+Dokumentasi DevinaOS menjelaskan fondasi arsitektur, prinsip, tata kelola, dan hubungan antarsistem di bawah DevinaHQ.
+
+Mulai dari [ringkasan arsitektur publik](https://hq.devina.id/architecture).
+
+**Untuk anggota dengan akses repositori**, panduan teknis tersedia di:
+
+- [INTRO-000 — DevinaOS Manifesto](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-000.md)
+- [INTRO-007 — Reading Guide](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-007.md)
+- [Seluruh seri INTRO-000–INTRO-011](https://github.com/DevinaHQ/devina-hq/tree/main/docs/intro)
+- [Indeks DevinaOS Enterprise Architecture](https://github.com/DevinaHQ/devina-hq/blob/main/docs/DEVINAOS-ENTERPRISE-ARCHITECTURE.md)
+
+Sumber utama arsitektur, tata kelola, peta produk, dan dokumentasi organisasi adalah [DevinaHQ/devina-hq](https://github.com/DevinaHQ/devina-hq), repositori privat dengan akses anggota. Ikuti status yang tercantum pada dokumen, seperti Draft atau Baseline.
 
 ---
 
-> **One Enterprise. One Architecture. One Memory. Continuous Evolution.**
+*Profil diperbarui: 15 September 2026.*
