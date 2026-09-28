@@ -1,81 +1,50 @@
-# DevinaHQ
+# KERSAA
 
 > **Bertumbuh melalui pengetahuan. Berkelanjutan melalui sistem.**
 
-[Situs DevinaHQ](https://hq.devina.id/)
+**KERSAA** adalah identitas institutional baru yang sedang menggantikan **DevinaHQ** secara bertahap. Technical namespace GitHub masih menggunakan `DevinaHQ` selama masa migration agar production path dan integration tidak terputus.
 
-## Tujuan DevinaHQ
+🌐 [kersaa.com](https://kersaa.com/)
 
-DevinaHQ adalah payung pengembangan teknologi, riset, dan sistem yang menghubungkan pembelajaran dengan penerapan nyata. Kami membangun pengetahuan, produk, dan proses yang dapat terus digunakan, diperbaiki, dan dikembangkan.
+## What KERSAA builds
 
-Semangat **bertumbuh dan berkelanjutan** menjadi arah bersama: belajar dari masalah nyata, menguji gagasan, mencatat keputusan, dan membawa hasilnya kembali ke pengembangan berikutnya. Kemajuan ditunjukkan melalui manfaat bagi pengguna, pengetahuan yang bertambah, serta operasional yang semakin tertata.
+KERSAA membangun systems yang menghubungkan learning, capability development, evidence, decision-making, governance, dan execution.
 
-## Ekosistem dan Proyek
+Current product/system map:
 
-**DevinaHQ** menaungi arah, tata kelola, dan pengembangan ekosistem. Dua fondasi bersama mendukung produk dengan tanggung jawab yang berbeda:
-
-- **DevinaOS** — fondasi arsitektur dan platform operasional bersama untuk pengetahuan, proses, data, serta integrasi. **Status: pengembangan.**
-- **Devina Intelligence (DI) dan DIA** — arah pengembangan kemampuan AI bersama dan antarmuka asisten. **Status: perancangan arsitektur; antarmuka direncanakan.**
-
-Produk dan sistem memiliki tujuan serta tahap pengembangan masing-masing:
-
-| Produk / Sistem | Fokus | Status |
+| Product / System | Focus | Status |
 |---|---|---|
-| **OLS** — Olympiad Learning System | Pembelajaran terstruktur, diagnostik, pendamping belajar, dan pemantauan kemajuan. | Beroperasi; terus dikembangkan |
-| **CIYUS** — Client Intake, Yield & Opportunity System | Pencatatan konsultasi, tindak lanjut, dan pemantauan layanan klien. | Pilot; pengembangan |
-| **PLOOS** — Professional Legal Office Operating System | Alur kerja kantor notaris, PPAT, dan profesi hukum. | Pengembangan; pilot |
-| **PULSE** | Perencanaan konten, penjadwalan, publikasi lintas kanal, dan analitik. | Pengembangan |
-| **XEGEL** | Layanan legalitas usaha, perizinan, perubahan badan usaha, merek, dan kepatuhan. | Perencanaan |
-| **Devina Music** | Penciptaan musik, katalog, produksi, metadata hak, dan pengelolaan rilisan. | Beroperasi; sistem terus dikembangkan |
+| **KERSAA Learning System (KLS)** | Learning pathways, development map, evidence continuity, family learning architecture | Architecture / migration |
+| **OLS — Olympiad Learning System** | Structured olympiad learning, practice, assessment, mastery | Active development |
+| **PULSE** | Content planning, scheduling, publishing, distribution, engagement | Development |
+| **PLOOS** | Professional legal office operating system | Development / pilot |
+| **CIYUS** | Client intake, yield & opportunity system | Pilot / development |
+| **RealityLab** | Research, experimentation, product incubation | Experimental |
 
-**Cuci Alas Kaki** merupakan implementasi klien yang beroperasi dan terus dikembangkan. Proyek ini menjadi tempat penerapan proses website, SEO lokal, konten, dan pengembangan alur layanan digital. Kemampuan yang dapat digunakan kembali dikembangkan menjadi komponen bersama.
+Client implementations remain separated from product core.
 
-Status ringkas per **15 September 2026** mengacu pada [halaman sistem dan produk](https://hq.devina.id/systems-products). [devina.id](https://devina.id/) tetap menjadi portofolio akademik dan pribadi Devina Azaria.
+## Current infrastructure
 
-## Riset dan Paper
+KERSAA public web currently runs through:
 
-DevinaHQ menerbitkan perspektif dan working paper untuk menghubungkan pemahaman manusia, ekonomi, teknologi, dan perancangan sistem. Tulisan menjadi bahan belajar, diskusi, serta pengembangan produk dan proses.
+```text
+GitHub
+→ Google Cloud Build
+→ Cloud Run
+→ Firebase Hosting
+→ kersaa.com
+```
 
-Pilihan bacaan terbaru:
+The migration is intentionally gradual. Existing DevinaHQ repositories, URLs, and historical documents are preserved until their dependencies are mapped and verified.
 
-| Paper | Pokok bahasan | Tanggal terbit |
-|---|---|---|
-| [Logika dan Sastra](https://hq.devina.id/papers/logika-dan-sastra) | Nalar, kepekaan, dan komunikasi manusia yang utuh. | 14 September 2026 |
-| [In This Economy](https://hq.devina.id/papers/in-this-economy) | Pertumbuhan ekonomi dan pengalaman biaya hidup sehari-hari. | 13 September 2026 |
-| [Perbankan dan Investasi](https://hq.devina.id/papers/perbankan-dan-investasi) | Perbankan, pengelolaan modal, dan pemikiran jangka panjang. | 12 September 2026 |
+## Personal identity
 
-[Jelajahi seluruh paper](https://hq.devina.id/papers)
+[devina.id](https://devina.id/) remains the personal academic and creative identity of **Devina Azaria**. It is not the institutional umbrella for KERSAA.
 
-## Roadmap
+## Legacy note
 
-Fokus saat ini adalah **pilot produk dan operasional**. Pengembangan kemampuan bersama DevinaOS, DI, dan DIA berjalan bertahap, disertai pencatatan keputusan dan evaluasi hasil.
-
-Ukuran kemajuan yang dituju:
-
-| Prioritas | Hasil yang dituju | Bukti kemajuan |
-|---|---|---|
-| Pilot produk | Setiap produk pilot memiliki setidaknya satu alur utama yang dapat digunakan dan diuji. | Demo atau versi rilis, hasil uji, dan catatan perbaikan. |
-| Operasional digital | Proses konten dan layanan dapat dijalankan berulang serta ditelusuri hasilnya. | Catatan publikasi, status tindak lanjut, dan metrik penggunaan yang relevan. |
-| Riset dan pembelajaran | Paper memiliki rujukan, versi, serta tindak lanjut berupa revisi, tulisan lanjutan, atau penerapan. | Indeks publikasi dan riwayat pengembangan. |
-| Platform dan AI bersama | Kemampuan yang berulang dapat digunakan kembali oleh produk sesuai kebutuhannya. | Dokumentasi integrasi dan contoh penerapan yang telah diuji. |
-
-[Lihat tahapan roadmap DevinaHQ](https://hq.devina.id/roadmap)
-
-## Dokumentasi DevinaOS
-
-Dokumentasi DevinaOS menjelaskan fondasi arsitektur, prinsip, tata kelola, dan hubungan antarsistem di bawah DevinaHQ.
-
-Mulai dari [ringkasan arsitektur publik](https://hq.devina.id/architecture).
-
-**Untuk anggota dengan akses repositori**, panduan teknis tersedia di:
-
-- [INTRO-000 — DevinaOS Manifesto](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-000.md)
-- [INTRO-007 — Reading Guide](https://github.com/DevinaHQ/devina-hq/blob/main/docs/intro/INTRO-007.md)
-- [Seluruh seri INTRO-000–INTRO-011](https://github.com/DevinaHQ/devina-hq/tree/main/docs/intro)
-- [Indeks DevinaOS Enterprise Architecture](https://github.com/DevinaHQ/devina-hq/blob/main/docs/DEVINAOS-ENTERPRISE-ARCHITECTURE.md)
-
-Sumber utama arsitektur, tata kelola, peta produk, dan dokumentasi organisasi adalah [DevinaHQ/devina-hq](https://github.com/DevinaHQ/devina-hq), repositori privat dengan akses anggota. Ikuti status yang tercantum pada dokumen, seperti Draft atau Baseline.
+DevinaHQ is the legacy organizational identity. During transition, older repositories and documents may still use **DevinaHQ**, **DevinaOS**, or related naming. Historical records are preserved rather than rewritten.
 
 ---
 
-*Profil diperbarui: 15 September 2026.*
+*Transition baseline updated: 28 September 2026.*
