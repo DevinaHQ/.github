@@ -2,15 +2,15 @@
 
 > **Bertumbuh melalui pengetahuan. Berkelanjutan melalui sistem.**
 
-**KERSAA** adalah identitas institutional baru yang sedang menggantikan **DevinaHQ** secara bertahap. Technical namespace GitHub masih menggunakan `DevinaHQ` selama masa migration agar production path dan integration tidak terputus.
+**KERSAA** adalah identitas yang sedang dikembangkan dari perjalanan **DevinaHQ**. Nama GitHub `DevinaHQ` tetap digunakan untuk sejumlah proyek dan arsip selama transisi.
 
 🌐 [kersaa.com](https://kersaa.com/)
 
 ## What KERSAA builds
 
-KERSAA membangun systems yang menghubungkan learning, capability development, evidence, decision-making, governance, dan execution.
+Kami senang merancang alat yang membantu orang belajar, bekerja sama, dan mengubah ide menjadi sesuatu yang bisa digunakan. Tidak semua ide langsung menjadi produk: sebagian masih berupa eksperimen, sebagian sedang diuji, dan semuanya punya ruang untuk berkembang.
 
-Current product/system map:
+Beberapa inisiatif yang sedang dijelajahi (status menunjukkan tahap pengembangan, bukan janji fitur yang sudah tersedia):
 
 | Product / System | Focus | Status |
 |---|---|---|
@@ -23,19 +23,9 @@ Current product/system map:
 
 Client implementations remain separated from product core.
 
-## Current infrastructure
+## How we work
 
-KERSAA public web currently runs through:
-
-```text
-GitHub
-→ Google Cloud Build
-→ Cloud Run
-→ Firebase Hosting
-→ kersaa.com
-```
-
-The migration is intentionally gradual. Existing DevinaHQ repositories, URLs, and historical documents are preserved until their dependencies are mapped and verified.
+Kami mulai dari masalah yang nyata, mencoba solusi kecil, mendengarkan masukan, lalu memperbaikinya. Detail operasional, akses sistem, dan informasi klien tidak dipublikasikan di profil ini.
 
 ## Personal identity
 
